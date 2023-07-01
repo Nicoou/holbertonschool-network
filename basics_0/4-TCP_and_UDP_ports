@@ -1,2 +1,3 @@
-netstat -ltup
+#!/usr/bin/env bash
+#bash script that display listening ports
 netstat -ltup
